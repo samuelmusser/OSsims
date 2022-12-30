@@ -1,7 +1,7 @@
 /*
 ----------------------------------------------------------------------------
 Simulate CPU scheduling algorithms by generating a set of statistics
-and printing their values to stdout. (In this project it is first come/serve
+and printing their values to stdout.
 
 Ex input format:
 P                               //processes available
